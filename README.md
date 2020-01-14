@@ -11,6 +11,14 @@ Database).
 
 # Installation
 
+You can download the package from the CRAN repository:
+
+``` r
+install.packages("ROMDB")
+```
+
+You can also download the trial version from GitHub:
+
 ``` r
 devtools::install_github('https://github.com/AlbertoAlmuinha/ROMDB')
 ```
