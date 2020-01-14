@@ -1,6 +1,7 @@
 
 # ROMDB <img src='man/figures/logo.png' align="right" height="139" />
 
+[![CRAN status](https://www.r-pkg.org/badges/version/ROMDB)](https://CRAN.R-project.org/package=ROMDB)
 [![Lifecycle:
 stable](https://img.shields.io/badge/lifecycle-stable-brightgreen.svg)](https://www.tidyverse.org/lifecycle/#stable)
 [![Build Status](https://travis-ci.com/AlbertoAlmuinha/ROMDB.svg?branch=master)](https://travis-ci.com/AlbertoAlmuinha/ROMDB)
